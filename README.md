@@ -15,7 +15,8 @@ This repository contains implementations of fundamental searching algorithms in 
     *   Average Case: O(n) - Target found somewhere in the middle
     *   Worst Case: O(n) - Target not found or found at the end of the list
 *   **Space Complexity:** O(1) - Constant space used
-*   **Implementation:** `linear_search.cpp`
+*   **Implementation:** - [linear_search](linear_search.cpp)
+
 *   **Video Explanation:** [YouTube Video ](https://youtu.be/j5uXyPJ0Pew?si=ve-ebgwmaWETGRmq)
 
 ### 2. Binary Search
@@ -28,7 +29,7 @@ This repository contains implementations of fundamental searching algorithms in 
 *   **Space Complexity:**
     *   Iterative: O(1) - Constant space used
     *   Recursive: O(log n) - Due to function call stack
-*   **Implementation:** `binary_search.cpp`
+*   **Implementation:** - [binary_search](binary_search.cpp)
 *   **Video Explanation:**
  - [YouTube Video part-1.](https://youtu.be/j5uXyPJ0Pew?si=ve-ebgwmaWETGRmq)
  - [YouTube Video part-2](https://youtu.be/OAZc1zwjERU?si=xya4wFonL7LL4ww_)
